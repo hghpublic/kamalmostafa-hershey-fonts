@@ -1,0 +1,202 @@
+= hershey-fonts
+:toc:
+:sectnums:
+ifndef::env-github[:icons: font]
+:note-caption: :paperclip:
+:important-caption: :exclamation:
+:warning-caption: :warning:
+
+[IMPORTANT]
+====
+The commit history of this branch is volatile. +
+Rebasing and force pushing happens at will. +
+The commits in this branch mostly collect changes with a narrow scope. +
+They rarely document code evolution. +
+The history may be rewritten without notice.
+====
+
+== hershey-fonts
+
+https://en.wikipedia.org/wiki/Hershey_fonts
+
+http://www.whence.com/hershey-fonts/
+
+----
+HERSHEY_FONTS_DIR=$WORKSPACE_ROOT/hershey-fonts ./hershey-font-example
+# H
+         {4,21} {4,0}
+         {18,21} {18,0}
+         {4,11} {18,11}
+# E
+         {26,21} {26,0}
+         {26,21} {39,21}
+         {26,11} {34,11}
+         {26,0} {39,0}
+# L
+         {45,21} {45,0}
+         {45,0} {57,0}
+# L
+         {62,21} {62,0}
+         {62,0} {74,0}
+# O
+         {84,21} {82,20} {80,18} {79,16} {78,13} {78,8} {79,5} {80,3} {82,1} {84,0} {88,0} {90,1} {92,3} {93,5} {94,8} {94,13} {93,16} {92,18} {90,20} {88,21} {84,21}
+----
+
+----
+HERSHEY_FONTS_DIR=$WORKSPACE_ROOT/hershey-fonts ./hershey-font-check <font>
+
+HERSHEY_FONTS_DIR=$WORKSPACE_ROOT/hershey-fonts ./hershey-font-check astrology
+----
+
+----
+HERSHEY_FONTS_DIR=$WORKSPACE_ROOT/hershey-fonts ./hershey-font-gnuplot <font>
+
+HERSHEY_FONTS_DIR=$WORKSPACE_ROOT/hershey-fonts ./hershey-font-gnuplot futural
+----
+
+== Paul Bourke
+
+https://paulbourke.net/dataformats/hershey/
+
+
+== Frank Grießhammer
+
+https://lwn.net/Articles/654819/
+
+https://github.com/frankrolf
+
+https://github.com/frankrolf/hershey-fonts
+
+https://github.com/frankrolf/python-hershey
+
+http://cd.textfiles.com/sourcecode/usenet/compsrcs/unix/volume04/hershey/
+
+
+https://www.maxkohler.com/notes/2020-12-01-herschey-fonts/
+
+https://lapolice.ch/stories/footnotes-b-article-9/
+
+
+=== YouTube
+
+The Hershey Fonts — Frank Grießhammer
+
+https://www.youtube.com/watch?v=xQNHAWrR_eg
+
+
+=== Vimeo
+
+The Hershey Fonts with Frank Griesshammer
+
+https://vimeo.com/178015110
+
+
+== GitHub
+
+https://github.com/techninja/hersheytextjs
+
+https://github.com/yangcht/Hershey_font_TTF
+
+https://github.com/ixd-hof/HersheyFont
+
+https://github.com/osresearch/vst/blob/master/teensyv/hershey_font.c
+
+https://github.com/scruss/AVHershey-OTF
+
+https://github.com/shapely/shapely
+
+https://plindenbaum.blogspot.com/
+
+https://github.com/lindenb/hershey
+
+https://github.com/bjnortier/hershey
+
+https://github.com/Dener-Silva/Hershey-TTF
+
+https://github.com/Dener-Silva/Hershey-TTF/tree/master/modsources
+
+https://github.com/reinholtz/hershey-fonts-with-unicode
+
+== FontForge
+
+https://fontforge.org/
+
+
+https://github.com/fontforge/fontforge
+
+== Stash
+
+=== Hershey Noailles
+
+https://hershey-noailles.luuse.io/www/
+
+=== Hershey Fonts in SVG
+
+https://martymcgui.re/2011/02/06/81117/
+
+=== Hershey Fonts
+
+https://emergent.unpythonic.net/software/hershey
+
+=== Hershey fonts for Ghostscript
+
+http://astro.uni-tuebingen.de/software/ghostscript/Hershey.htm
+
+=== The Hershey Fonts
+
+https://solhsa.com/hershey/
+
+=== Hershey
+
+https://gitlab.com/oskay/svg-fonts/-/tree/master/fonts/Hershey
+
+=== The Hershey Font Explorer
+
+https://sourceforge.net/projects/hershey9000/
+
+=== Using Hershey Vector Fonts
+
+https://www.nv5geospatialsoftware.com/docs/Using_Hershey_Vector_Fon.html
+
+=== VMD Programmer's Guide
+
+https://www.ks.uiuc.edu/Research/vmd/doxygen/Hershey_8C-source.html
+
+=== Translating the Hershey Glyphs
+
+https://www.galleyrack.com/hershey/additional-fonts-for-VARKON/hershey/index.html
+
+=== usenet
+
+https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/usenet/ftp.uu.net/comp.sources.unix/
+
+https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/usenet/ftp.uu.net/comp.sources.unix/volume4/hershey/
+
+http://cd.textfiles.com/sourcecode/usenet/compsrcs/unix/volume04/hershey/
+
+=== The Holzmann USENET Distribution & Hurt Encoding (1984)
+
+https://www.circuitousroot.com/oldstuff/hershey/usenet/index.html
+
+
+http://canonical.org/~kragen/sw/dev3/smolhershey.md.html
+
+=== Exploring Dr. Hershey's Typography
+
+https://circuitousroot.com/artifice/letters/hershey/index.html
+
+
+
+=== History of the Hershey fonts
+
+https://productiontype.com/article/history-of-the-hershey-fonts
+
+=== Hershey.C
+
+https://www.ks.uiuc.edu/Research/vmd/doxygen/Hershey_8C-source.html
+
+=== Hershey Fonts: Not Chocolate, The Origin Of Vector Lettering
+
+https://hackaday.com/2021/03/30/hershey-fonts-not-chocolate-the-origin-of-vector-lettering/
+
+
