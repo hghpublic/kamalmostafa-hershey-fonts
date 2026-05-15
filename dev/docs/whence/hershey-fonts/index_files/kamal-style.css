@@ -1,0 +1,30 @@
+body {
+  font-family: Ubuntu,Arial,Helvetica,sans-serif;
+  font-weight: inherit;
+}
+
+.kamal_titlebox {
+  font-weight: bold;
+  text-decoration: none;
+  background: #F0F0F0;
+  color: black;
+  margin: 0px;
+  padding: 0px;
+}
+
+.kamal_titlebox a:link    {text-decoration: none; color: black;}
+.kamal_titlebox a:visited {text-decoration: none; color: black;}
+.kamal_titlebox a:hover   {text-decoration: underline; color: purple;}
+.kamal_titlebox a:active  {text-decoration: underline; color: purple;}
+
+#debian a:hover        {text-decoration: underline; color: #C60033;}
+#debian a:active       {text-decoration: underline; color: #C60033;}
+#software a:hover        {text-decoration: underline; color: #C60033;}
+#software a:active       {text-decoration: underline; color: #C60033;}
+#ubuntu a:hover        {text-decoration: underline; color: #DC4814;}
+#ubuntu a:active       {text-decoration: underline; color: #DC4814;}
+#electronics a:hover   {text-decoration: underline; color: #00A11B;}
+#electronics a:active  {text-decoration: underline; color: #00A11B;}
+#radioham a:hover      {text-decoration: underline; color: #3194F5;}
+#radioham a:active     {text-decoration: underline; color: #3194F5;}
+

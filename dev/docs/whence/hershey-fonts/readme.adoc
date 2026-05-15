@@ -1,0 +1,10 @@
+= Hershey Fonts
+
+http://www.whence.com/hershey-fonts/
+
+https://en.wikipedia.org/wiki/Hershey_fonts
+
+----
+wget -np -r http://www.whence.com/hershey-fonts/
+wget  -e robots=off -np -r --user-agent="Mozilla/5.0 (X11; U; Linux i686; de; rv:1.9b5) Gecko/2008050509 Firefox/3.0b5" https://paulbourke.net/dataformats/hershey/
+----

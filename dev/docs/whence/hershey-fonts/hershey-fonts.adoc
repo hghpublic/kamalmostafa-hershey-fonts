@@ -1,0 +1,182 @@
+= hershey-fonts : libhersheyfont
+
+[[kamal_titlebox]]
+[width="100%",cols="<50%,<50%",]
+|===
+<|image:./index_files/kamal.png[./index++_++files/kamal] <a|
+[width="100%",cols="<25%,<25%,<25%,<25%",]
+!===
+4+<! http://www.whence.com/kamal[Kamal Mostafa] kamal@whence.com
+2+^! ^! ^!
+!===
+
+|===
+
+'''''
+
+ +
+
+image:./index_files/text-Hershey-Fonts.png[Hershey Fonts]
+
+* The http://en.wikipedia.org/wiki/Hershey_font[Hershey fonts] are a
+collection of free vector fonts developed circa 1967 by Dr. A. V.
+Hershey.
++
+This *hershey-fonts* package includes Kamal Mostafa's *libhersheyfont*
+(a 2013 GPL C library for loading Hershey font files), a _gnuplot_
+front-end and other utility programs, as well as the Hershey font glyph
+data itself. The fonts were converted from Hershey's original NTIS
+format to the .jhf Hershey file format by James Hurt.
+
+'''''
+
+[width="100%",cols="50%,50%",]
+|===
+a|
+==== The hershey-fonts package
+
+[[___plusone_0]]
+
+Current version:
+
+* source package:
+*http://www.whence.com/hershey-fonts/hershey-fonts-0.1.tar.gz[hershey-fonts-0.1.tar.gz]* +
+* git repo:
+https://github.com/kamalmostafa/hershey-fonts.git[github:kamalmostafa/hershey-fonts]
+* Debian package:
+http://packages.qa.debian.org/h/hershey-fonts.html[hershey-fonts]
+* Ubuntu PPA package:
+https://launchpad.net/~kamalmostafa/+archive/hershey-fonts[ppa:kamalmostafa/hershey-fonts]
+
+Provided binary package components:
+
+* libhersheyfont0
+* libhersheyfont-dev
+* hershey-fonts-data
+* hershey-font-gnuplot
+
+a|
+ +
+
+ +
+[.small]#Demo of
+https://marcansoft.com/blog/2010/11/openlase-open-realtime-laser-graphics/[*OpenLase*]
+enhanced with *hershey-fonts* support (upstream soon).#
+
+|===
+
+'''''
+
+==== Hershey font samples
+
+[width="100%",cols="50%,50%",]
+|===
+|http://www.whence.com/hershey-fonts/hershey-font-samples/astrology.png[[.small]#astrology# +
+image:./index_files/astrology-preview.png[./index++_++files/astrology-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/cursive.png[[.small]#cursive# +
+image:./index_files/cursive-preview.png[./index++_++files/cursive-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/cyrilc_1.png[[.small]#cyrilc++_++1# +
+image:./index_files/cyrilc_1-preview.png[./index++_++files/cyrilc++_++1-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/cyrillic.png[[.small]#cyrillic# +
+image:./index_files/cyrillic-preview.png[./index++_++files/cyrillic-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/futural.png[[.small]#futural# +
+image:./index_files/futural-preview.png[./index++_++files/futural-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/futuram.png[[.small]#futuram# +
+image:./index_files/futuram-preview.png[./index++_++files/futuram-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/gothgbt.png[[.small]#gothgbt# +
+image:./index_files/gothgbt-preview.png[./index++_++files/gothgbt-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/gothgrt.png[[.small]#gothgrt# +
+image:./index_files/gothgrt-preview.png[./index++_++files/gothgrt-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/gothiceng.png[[.small]#gothiceng# +
+image:./index_files/gothiceng-preview.png[./index++_++files/gothiceng-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/gothicger.png[[.small]#gothicger# +
+image:./index_files/gothicger-preview.png[./index++_++files/gothicger-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/gothicita.png[[.small]#gothicita# +
+image:./index_files/gothicita-preview.png[./index++_++files/gothicita-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/gothitt.png[[.small]#gothitt# +
+image:./index_files/gothitt-preview.png[./index++_++files/gothitt-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/greekc.png[[.small]#greekc# +
+image:./index_files/greekc-preview.png[./index++_++files/greekc-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/greek.png[[.small]#greek# +
+image:./index_files/greek-preview.png[./index++_++files/greek-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/greeks.png[[.small]#greeks# +
+image:./index_files/greeks-preview.png[./index++_++files/greeks-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/japanese.png[[.small]#japanese# +
+image:./index_files/japanese-preview.png[./index++_++files/japanese-preview]] +
+ +
+|http://www.whence.com/hershey-fonts/hershey-font-samples/markers.png[[.small]#markers# +
+image:./index_files/markers-preview.png[./index++_++files/markers-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/mathlow.png[[.small]#mathlow# +
+image:./index_files/mathlow-preview.png[./index++_++files/mathlow-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/mathupp.png[[.small]#mathupp# +
+image:./index_files/mathupp-preview.png[./index++_++files/mathupp-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/meteorology.png[[.small]#meteorology# +
+image:./index_files/meteorology-preview.png[./index++_++files/meteorology-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/music.png[[.small]#music# +
+image:./index_files/music-preview.png[./index++_++files/music-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/rowmand.png[[.small]#rowmand# +
+image:./index_files/rowmand-preview.png[./index++_++files/rowmand-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/rowmans.png[[.small]#rowmans# +
+image:./index_files/rowmans-preview.png[./index++_++files/rowmans-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/rowmant.png[[.small]#rowmant# +
+image:./index_files/rowmant-preview.png[./index++_++files/rowmant-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/scriptc.png[[.small]#scriptc# +
+image:./index_files/scriptc-preview.png[./index++_++files/scriptc-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/scripts.png[[.small]#scripts# +
+image:./index_files/scripts-preview.png[./index++_++files/scripts-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/symbolic.png[[.small]#symbolic# +
+image:./index_files/symbolic-preview.png[./index++_++files/symbolic-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/timesg.png[[.small]#timesg# +
+image:./index_files/timesg-preview.png[./index++_++files/timesg-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/timesib.png[[.small]#timesib# +
+image:./index_files/timesib-preview.png[./index++_++files/timesib-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/timesi.png[[.small]#timesi# +
+image:./index_files/timesi-preview.png[./index++_++files/timesi-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/timesrb.png[[.small]#timesrb# +
+image:./index_files/timesrb-preview.png[./index++_++files/timesrb-preview]] +
+ +
+http://www.whence.com/hershey-fonts/hershey-font-samples/timesr.png[[.small]#timesr# +
+image:./index_files/timesr-preview.png[./index++_++files/timesr-preview]] +
+ +
+|===
+
+'''''
+
+[.small]#The *libhersheyfont* library is Copyright © 2013 by Kamal
+Mostafa ++<++kamal@whence.com++>++, licensed GPLv2{plus}: GNU GPL
+version 2 or later ++<++http://gnu.org/licenses/gpl.html++>++. +
+The Hershey font glyph data is covered by a permissive use and
+redistribution license. +
+This is free software: you are free to change and redistribute it. There
+is NO WARRANTY, to the extent permitted by law.#
+
+[.small]##
